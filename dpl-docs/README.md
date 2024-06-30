@@ -24,6 +24,8 @@ DPL is a fun and expressive programming language with unique syntax and features
 
 To run DPL programs, you'll need a DPL interpreter. Once you have the interpreter set up, you can run any of the example programs provided in this repository.
 
+DPL interpreter: [here]("https://github.com/SirPigari/dpl_interpreter")
+
 ## Examples
 
 Here are some example programs to get you started:
