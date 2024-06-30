@@ -4,9 +4,6 @@ Welcome to the documentation for the Dank Programming Language (DPL). This repos
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Examples](#examples)
 - [Documentation](#documentation)
   - [Keywords](docs/keywords.md)
   - [Built-ins](docs/builtins.md)
@@ -14,7 +11,7 @@ Welcome to the documentation for the Dank Programming Language (DPL). This repos
   - [Functions](docs/functions.md)
   - [Objects and Classes](docs/objects_classes.md)
   - [Conditionals and Loops](docs/conditional_loops.md)
-- [License](#license)
+- [License](LICENSE)
 
 ## Introduction
 
@@ -24,7 +21,7 @@ DPL is a fun and expressive programming language with unique syntax and features
 
 To run DPL programs, you'll need a DPL interpreter. Once you have the interpreter set up, you can run any of the example programs provided in this repository.
 
-DPL interpreter: [here]("https://github.com/SirPigari/dpl_interpreter")
+DPL interpreter: [here](https://github.com/SirPigari/dpl_interpreter)
 
 ## Examples
 
