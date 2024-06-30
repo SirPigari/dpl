@@ -1,0 +1,20 @@
+// Usage of maybe boolean in DPL
+
+alpha evaluate_maybe() {
+    sigma x = maybe;
+    yeet (x) {
+        throw f("{x} is true");
+    } yeet last {
+        throw f("{x} is false");
+    }
+}
+
+alpha main() {
+    sigma i = 0;
+    yall (i < 5) {
+        evaluate_maybe();
+        i = i + 1;
+    }
+}
+
+call main();

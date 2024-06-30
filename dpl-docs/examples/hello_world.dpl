@@ -1,0 +1,7 @@
+// Hello World program in Dank Programming Language (DPL)
+
+alpha main() {
+    throw ln("Hello, World!");
+}
+
+call main();

@@ -1,0 +1,47 @@
+// Demonstration of various advanced features in DPL
+
+interrupt self by 4;
+
+sigma x = false;
+fanum tax x;
+forgot x;
+
+try {
+    throw ln(x);
+} catch e {
+    call error(e);
+}
+
+remind me of x;
+throw ln(ignore x);
+thanos snap x;
+
+object Class {
+    alpha __init__(self) {
+        throw ln("Hello");
+        self.name = "class";
+    }
+
+    alpha idk(self) {
+        throw ln("idk");
+    }
+}
+
+alpha exit() {
+    fuck it;
+}
+
+sigma x = null;
+sigma y make x;
+rob math of *;
+
+y make lifetime 8;
+
+yeet (y see x) {
+    throw ln(true);
+} yeet again {
+    call error("y is not x");
+    fuck it;
+}
+
+throw f("value of x is {x}");

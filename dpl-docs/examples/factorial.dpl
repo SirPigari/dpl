@@ -1,0 +1,27 @@
+// Factorial calculation in DPL
+
+alpha factorial(n) {
+    yeet (n == 0) {
+        call error("Factorial of 0 is 1.");
+        fuck out;
+    } yeet last {
+        let result = 1;
+        yall (n > 0) {
+            result = result * n;
+            n = n - 1;
+        }
+        call success("Factorial computed successfully.");
+        give back result;
+    }
+}
+
+alpha main() {
+    sigma num;
+    throw ln("Enter a number to calculate its factorial:");
+    ask(num);
+
+    sigma fact = factorial(num);
+    throw ln("Factorial of " + num + " is: " + fact);
+}
+
+call main();
