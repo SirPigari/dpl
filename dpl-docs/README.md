@@ -4,6 +4,7 @@ Welcome to the documentation for the Dank Programming Language (DPL). This repos
 
 ## Table of Contents
 
+- [Examples](examples.md)
 - [Documentation](#documentation)
   - [Keywords](docs/keywords.md)
   - [Built-ins](docs/builtins.md)
